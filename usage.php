@@ -3,7 +3,7 @@
 require("Customer.php");
 require("CustomerRegistered.php");
 require("CustomerUpdatedProfile.php");
-require("CustomerClosedAccount.php");
+// require("CustomerClosedAccount.php");
 require("CustomerProjector.php");
 require("CustomerRepository.php");
 require("Dispatcher.php");
