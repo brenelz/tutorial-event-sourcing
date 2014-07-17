@@ -32,3 +32,4 @@ $customer = Customer::register(
 
 $customer->updateProfile("name", "Chris");
 
+var_dump($customer);
